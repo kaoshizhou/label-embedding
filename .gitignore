@@ -1,0 +1,6 @@
+checkpoint/*
+data/data
+wandb/
+model.pth
+nohup.out
+
